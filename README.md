@@ -2,6 +2,9 @@
 
 [![CircleCI](https://circleci.com/gh/circleci/frontend.svg?style=svg)](https://circleci.com/gh/circleci/frontend)
 
+[![security status](https://www.meterian.com/badge/gh/bbossola/frontend/security?branch=meterian)](https://www.meterian.com/report/gh/bbossola/frontend?branch=meterian)
+[![stability status](https://www.meterian.com/badge/gh/bbossola/frontend/stability?branch=meterian)](https://www.meterian.com/report/gh/bbossola/frontend?branch=meterian)
+
 This is an open-source mirror of the code that is running
 [CircleCI's](https://circleci.com) frontend. CircleCI provides powerful
 Continuous Integration and Deployment with easy setup and maintenance.
